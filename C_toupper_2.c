@@ -4,7 +4,7 @@
 int main(void)
 {
 	char a = 'a';
-	printf("%c�� �빮�ڴ� %c�Դϴ�.\n", a, toupper(a));
+	printf("%c의 대문자는 %cÀÔ´Ï´Ù.\n", a, toupper(a));
 
 	return 0;
 }
