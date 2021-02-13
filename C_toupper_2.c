@@ -4,7 +4,7 @@
 int main(void)
 {
 	char a = 'a'; // 초기화
-	printf("%c의 대문자는 %c입니다.\n", a, toupper(a));
+	printf("%c의 대문자는 %c입니다.\n", a, toupper(a)); //출력
 
 	return 0;
 }
